@@ -1,0 +1,225 @@
+RE	recognition site /cut	Palindromic enzymes	recognition size	recognition site uniqness	conflicts	activity temperature	% Activity in NEBuffer
+AatII	GACGT/C	Yes	6	unique		37	rCutSmart Buffer
+Acc65I	G/GTACC	Yes	6	same as KpnI 	Kpnl	37	NEBuffer r3.1
+AccI	GT/MKAC	No					
+AciI	CCGC(-3/-1)	No					
+AclI	AA/CGTT	Yes	6	unique		37	rCutSmart Buffer
+AcuI	CTGAAG(16/14)	No					
+AfeI	AGC/GCT	Yes (blunt ends-non sutable)					
+AflII	C/TTAAG	Yes	6	unique		37	rCutSmart Buffer
+AflIII	A/CRYGT	No					
+AgeI	A/CCGGT	Yes	6	unique		37	NEBuffer r1.1
+AhdI	GACNNN/NNGTC	No					
+AleI	CACNN/NNGTG	No					
+AluI	AG/CT	Yes (blunt ends-non sutable)					
+AlwI	GGATC(4/5)	No					
+AlwNI	CAGNNN/CTG	No					
+ApaI	GGGCC/C	Yes	6	same as PspOMI	PspOMI	37	rCutSmart Buffer
+ApaLI	G/TGCAC	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1
+ApeKI	G/CWGC	No					
+ApoI	R/AATTY	No					
+AscI	GG/CGCGCC	Yes	8	unique		37	rCutSmart Buffer
+AseI	AT/TAAT	Yes	6	unique		37	NEBuffer r3.1
+AsiSI	GCGAT/CGC	Yes	8	unique		37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1
+AvaI	C/YCGRG	No					
+AvaII	G/GWCC	No					
+AvrII	C/CTAGG	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r1.1
+BaeGI	GKGCM/C	No					
+BamHI	G/GATCC	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r2.1/NEBuffer r3.1
+BanI	G/GYRCC	No					
+BanII	GRGCY/C	No					
+BbsI	GAAGAC(2/6)	No					
+BbvCI	CCTCAGC(-5/-2)	No					
+BbvI	GCAGC(8/12)	No					
+BccI	CCATC(4/5)	No					
+BceAI	ACGGC(12/14)	No					
+BciVI	GTATCC(6/5)	No					
+BclI	T/GATCA	Yes	6	unique		37	NEBuffer r2.1/NEBuffer r3.1
+BcoDI	GTCTC(1/5)	No					
+BfaI	C/TAG	Yes	4	unique		37	rCutSmart Buffer
+BfuAI	ACCTGC(4/8)	No					
+BfuCI	/GATC	Yes	4	unique		37	rCutSmart Buffer/ NEBuffer r2.1/NEBuffer r3.1
+BglI	GCCNNNN/NGGC	No					
+BglII	A/GATCT	Yes	6	unique		37	NEBuffer r3.1
+BlpI	GC/TNAGC	No					
+BmgBI	CACGTC(-3/-3)	No					
+BmrI	ACTGGG(5/4)	No					
+BmtI	GCTAG/C	Yes	6	same as NheI	NheI	37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1/NEBuffer r3.1
+BpmI	CTGGAG(16/14)	No					
+Bpu10I	CCTNAGC(-5/-2)	No					
+BpuEI	CTTGAG(16/14)	No					
+BsaAI	YAC/GTR	No					
+BsaBI	GATNN/NNATC	No					
+BsaHI	GR/CGYC	No					
+BsaI	GGTCTC(1/5)	No					
+BsaJI	C/CNNGG	No					
+BsaWI	W/CCGGW	No					
+BseRI	GAGGAG(10/8)	No					
+BseYI	CCCAGC(-5/-1)	No					
+BsgI	GTGCAG(16/14)	No					
+BsiEI	CGRY/CG	No					
+BsiHKAI	GWGCW/C	No					
+BsiWI	C/GTACG	Yes	6	unique		55	NEBuffer r3.1
+BslI	CCNNNNN/NNGG	No					
+BsmBI	CGTCTC(1/5)	No					
+BsmFI	GGGAC(10/14)	No					
+BsmI	GAATGC(1/-1)	No					
+Bsp1286I	GDGCH/C	No					
+BspCNI	CTCAG(9/7)	No					
+BspDI	AT/CGAT	Yes	6	unique		37	rCutSmart Buffer
+BspEI	T/CCGGA	Yes	6	unique		37	NEBuffer r3.1
+BspHI	T/CATGA	Yes	6	unique		37	rCutSmart Buffer
+BspQI	GCTCTTC(1/4)	No					
+BsrBI	CCGCTC(-3/-3)	No					
+BsrDI	GCAATG(2/0)	No					
+BsrFI	R/CCGGY	No					
+BsrGI	T/GTACA	Yes	6	unique		37	NEBuffer r2.1/NEBuffer r3.1
+BsrI	ACTGG(1/-1)	No					
+BssHII	G/CGCGC	Yes	6	unique		50	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1/NEBuffer r3.1
+BssKI	/CCNGG	No					
+BssSI	CACGAG(-5/-1)	No					
+BstAPI	GCANNNN/NTGC	No					
+BstBI	TT/CGAA	Yes	6	unique		65	rCutSmart Buffer/NEBuffer r2.1
+BstEII	G/GTNACC	No					
+BstNI	CC/WGG	No					
+BstUI	CG/CG	Yes (blunt ends-non sutable)					
+BstXI	CCANNNNN/NTGG	No					
+BstYI	R/GATCY	No					
+BstZ17I	GTA/TAC	Yes (blunt ends-non sutable)					
+Bsu36I	CC/TNAGG	No					
+BtgI	C/CRYGG	No					
+BtgZI	GCGATG(10/14)	No					
+BtsCI	GGATG(2/0)	No					
+BtsI	GCAGTG(2/0)	No					
+BtsIMutI	CAGTG(2/0)	No					
+Cac8I	GCN/NGC	No					
+CviAII	C/ATG	Yes	4	same as FatI and NlaIII	FatI,NlaIII	25	rCutSmart Buffer
+CviKI-1	RG/CY	No					
+CviQI	G/TAC	Yes	4	unique		25	NEBuffer r2.1/NEBuffer r3.1
+DdeI	C/TNAG	No					
+DraI	TTT/AAA	Yes (blunt ends-non sutable)					
+DraIII	CACNNN/GTG	No					
+DrdI	GACNNNN/NNGTC	No					
+EaeI	Y/GGCCR	No					
+EagI	C/GGCCG	Yes	6	unique		37	NEBuffer r3.1
+EarI	CTCTTC(1/4)	No					
+EciI	GGCGGA(11/9)	No					
+Eco53kI	GAG/CTC	Yes (blunt ends-non sutable)					
+EcoNI	CCTNN/NNNAGG	No					
+EcoO109I	RG/GNCCY	No					
+EcoP15I	CAGCAG(25/27)	No					
+EcoRI	G/AATTC	Yes	6	unique		37	NEBuffer EcoRI/SspI /NEBuffer r2.1
+EcoRV	GAT/ATC	Yes (blunt ends-non sutable)					
+FatI	/CATG	Yes	4	same as CviAII and NlaIII	CviAII,NlaIII	55	NEBuffer r2.1
+FauI	CCCGC(4/6)	No					
+Fnu4HI	GC/NGC	No					
+FokI	GGATG(9/13)	No					
+FseI	GGCCGG/CC	Yes	8	unique		37	rCutSmart Buffer/ NEBuffer r1.1
+FspI	TGC/GCA	Yes (blunt ends-non sutable)					
+HaeII	RGCGC/Y	No					
+HaeIII	GG/CC	Yes (blunt ends-non sutable)					
+HgaI	GACGC(5/10)	No					
+HhaI	GCG/C	Yes	4	same as HinP1I	HinP1I	37	rCutSmart Buffer/ NEBuffer r2.1/NEBuffer r3.1
+HincII	GTY/RAC	No					
+HindIII	A/AGCTT	Yes	6	unique		37	NEBuffer r2.1
+HinfI	G/ANTC	No					
+HinP1I	G/CGC	Yes	4	same as HhaI	HhaI	37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1/NEBuffer r3.1
+HpaI	GTT/AAC	Yes	6	unique		37	rCutSmart Buffer
+HphI	GGTGA(8/7)	No					
+Hpy166II	GTN/NAC	No					
+Hpy188I	TCN/GA	No					
+Hpy188III	TC/NNGA	No					
+Hpy99I	CGWCG/	No					
+HpyAV	CCTTC(6/5)	No					
+HpyCH4III	ACN/GT	No					
+HpyCH4IV	A/CGT	Yes	4	unique		37	rCutSmart Buffer/ NEBuffer r1.1
+HpyCH4V	TG/CA	Yes (blunt ends-non sutable)					
+KasI	G/GCGCC	Yes	6	same as NarI and PluTI	NarI,PluTI	37	rCutSmart Buffer/NEBuffer r2.1
+KpnI	GGTAC/C	Yes	6	same as Acc65I	Acc65I	37	NEBuffer r1.1
+MboII	GAAGA(8/7)	No					
+MfeI	C/AATTG	No					
+MluCI	/AATT	Yes	4	unique		37	rCutSmart Buffer/ NEBuffer r1.1
+MluI	A/CGCGT	Yes	6	unique		37	NEBuffer r3.1
+MlyI	GAGTC(5/5)	No					
+MmeI	TCCRAC(20/18)	No					
+MnlI	CCTC(7/6)	No					
+MscI	TGG/CCA	Yes (blunt ends-non sutable)					
+MseI	T/TAA	Yes	4	unique		37	rCutSmart Buffer/NEBuffer r2.1
+MslI	CAYNN/NNRTG	No					
+MspA1I	CMG/CKG	No					
+MwoI	GCNNNNN/NNGC	No					
+NaeI	GCC/GGC	Yes (blunt ends-non sutable)					
+NarI	GG/CGCC	Yes	6	same as KasI and PluTI	KasI,PluTI	37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1
+NciI	CC/SGG	No					
+NcoI	C/CATGG	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1/NEBuffer r3.1
+NdeI	CA/TATG	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r2.1/NEBuffer r3.1
+NgoMIV	G/CCGGC	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r1.1
+NheI	G/CTAGC	Yes	6	same as BmtI and FatI	BmtI,FatI	37	NEBuffer r1.1/ NEBuffer r2.1
+NlaIII	CATG/	Yes	4	same as CviAII and NlaIII	CviAII,NlaIII	37	rCutSmart Buffer
+NlaIV	GGN/NCC	No					
+NmeAIII	GCCGAG(21/19)	No					
+NotI	GC/GGCCGC	Yes	8	unique		37	NEBuffer r3.1
+NruI	TCG/CGA	Yes (blunt ends-non sutable)					
+NsiI	ATGCA/T	Yes	6	unique		37	NEBuffer r3.1
+NspI	RCATG/Y	No					
+Nt.BstNBI	GAGTC(4/-5)	No					
+PacI	TTAAT/TAA	Yes	8	unique		37	rCutSmart Buffer/NEBuffer r1.1
+PaeR7I	C/TCGAG	Yes	6	unique		37	rCutSmart Buffer/NEBuffer r2.1
+PciI	A/CATGT	Yes	6	unique		37	NEBuffer r3.1
+PflFI	GACN/NNGTC	No					
+PflMI	CCANNNN/NTGG	No					
+PluTI	GGCGC/C	Yes	6	same as KasI and NarI	KasI,NarI	37	rCutSmart Buffer/ NEBuffer r1.1
+PmeI	GTTT/AAAC	Yes (blunt ends-non sutable)					
+PmlI	CAC/GTG	Yes (blunt ends-non sutable)					
+PpuMI	RG/GWCCY	No					
+PshAI	GACNN/NNGTC	No					
+PsiI	TTA/TAA	Yes (blunt ends-non sutable)					
+PspGI	/CCWGG	No					
+PspOMI	G/GGCCC	Yes	6	same as ApaI	ApaI	37	rCutSmart Buffer/ NEBuffer r1.1
+PspXI	VC/TCGAGB	No					
+PstI	CTGCA/G	Yes	6	unique		37	NEBuffer r3.1
+PvuI	CGAT/CG	Yes	6	unique		37	NEBuffer r3.1
+PvuII	CAG/CTG	Yes (blunt ends-non sutable)					
+RsaI	GT/AC	Yes (blunt ends-non sutable)					
+RsrII	CG/GWCCG	No					
+SacI	GAGCT/C	Yes	6	unique		37	rCutSmart Buffer/NEBuffer r1.1
+SacII	CCGC/GG	Yes	6	unique		37	rCutSmart Buffer/NEBuffer r2.1
+SalI	G/TCGAC	Yes	6	unique		37	NEBuffer r3.1
+Sau96I	G/GNCC	No					
+SbfI	CCTGCA/GG	Yes	8	unique		37	rCutSmart Buffer
+ScaI	AGT/ACT	Yes (blunt ends-non sutable)					
+ScrFI	CC/NGG	No					
+SexAI	A/CCWGGT	No					
+SfaNI	GCATC(5/9)	No					
+SfcI	C/TRYAG	No					
+SfiI	GGCCNNNN/NGGCC	No					
+SfoI	GGC/GCC	Yes (blunt ends-non sutable)					
+SgrAI	CR/CCGGYG	No					
+SmaI	CCC/GGG	Yes (blunt ends-non sutable)					
+SmlI	C/TYRAG	No					
+SnaBI	TAC/GTA	Yes (blunt ends-non sutable)					
+SpeI	A/CTAGT	Yes	6	unique		37	rCutSmart Buffer/NEBuffer r2.1
+SphI	GCATG/C	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r1.1/ NEBuffer r2.1
+SspI	AAT/ATT	Yes (blunt ends-non sutable)					
+StuI	AGG/CCT	Yes (blunt ends-non sutable)					
+StyI	C/CWWGG	No					
+SwaI	ATTT/AAAT	Yes (blunt ends-non sutable)					
+TaqaI	T/CGA	Yes	4	unique		65	NEBuffer Taqa I + BSA 100mM
+TfiI	G/AWTC	No					
+Tsp45I	/GTSAC	No					
+TspMI	C/CCGGG	Yes	6	unique		75	rCutSmart Buffer
+TspRI	NNCASTGNN/	No					
+XbaI	T/CTAGA	Yes	6	unique		37	rCutSmart Buffer/ NEBuffer r2.1
+XcmI	CCANNNNN/NNNNTGG	No					
+XmnI	GAANN/NNTTC	No					
+ZraI	GAC/GTC	Yes (blunt ends-non sutable)					
+							
+			frequent 				
+			medium				
+			rare				
+							
+							
+							
+			frequent 				
+			medium 				
+			rare				
